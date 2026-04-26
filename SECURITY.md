@@ -2,16 +2,7 @@
 
 ## Supported Versions
 
-We provide security updates for the following versions of this project:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-If a version is not marked as supported, it will not receive security fixes.
+We provide security updates for the only versions of this project as of 04/25/2026
 
 ## Reporting a Vulnerability
 
